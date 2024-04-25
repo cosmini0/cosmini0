@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/cosmin-cretu-349002306/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://twitter.com/inkdPG">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle" alt="Twitter Badge">
   </a>
-  <a href="https://www.instagram.com/your-instagram-handle/">
+  <a href="https://www.instagram.com/cosmini0/">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your-instagram-handle/" alt="Instagram Badge">
   </a>
 </p>
