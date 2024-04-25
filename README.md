@@ -15,7 +15,7 @@
 
 ---
 
-### 🌟 about me
+### 🌟 about me 
 
 - 🔭 i'm currently working on a gameboy project
 
