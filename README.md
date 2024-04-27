@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/-css3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">  
 <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-swift-FA7343?style=flat-square&logo=Swift&logoColor=white" alt="Swift">
 <img src="https://img.shields.io/badge/-flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/-gml-8CC445?style=flat-square&logo=gamemaker-studio&logoColor=white" alt="GML">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">  
