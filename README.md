@@ -25,9 +25,8 @@
 
 - 💬 ask me anything
 
-- 📫 how to reach me: cosmincretu0909@gmail.com  
-
-- ⚡ fun fact: i don't drink my own pee
+- 📫 how to reach me: cosmincretu0909@gmail.com
+  
 
 ### 🚀 skills
 
